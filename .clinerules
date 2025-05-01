@@ -1,0 +1,9 @@
+## Before tasks
+
+ - Stash all changes in working directory and staged changes.
+ - Create new branch. A branch name is `cline/{date}`. The date is obtained by `date +%Y%m%d%H%M%S` command.
+
+## After tasks
+
+ - Commit all changes if there are not commited changes.
+ - Create PR using gh cli. Think PR title and description by summrizing your changes.
